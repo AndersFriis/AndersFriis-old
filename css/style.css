@@ -1,9 +1,8 @@
-body
-{background-color: lightblue;
+body {
+	background-color: lightblue;
 }
 
-P
-{
+p {
 	font-family: Courier;
 	font-size: 16px;
 }
@@ -11,18 +10,13 @@ P
 img {
 	display: block;
 	margin: auto;
-	width: 10% 
+	width: 10%;
 }
-
-
-
 
 span.crosshair {
     cursor: crosshair;
 }
 
 div.relative {
-    position: relative;
-    
-    
+    position: relative;    
 }
